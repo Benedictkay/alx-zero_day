@@ -1,2 +1,1 @@
-my readme file
-upadate readme
+my readme file updating
